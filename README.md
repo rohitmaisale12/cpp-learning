@@ -1,16 +1,22 @@
-# C++ Learning Journey
+# C++ Learning Repository
 
-This repository contains my journey of learning C++ programming.
+This repository contains my practice programs while learning C++ and STL for Data Structures and Algorithms.
 
 ## Topics Covered
-- Input / Output
-- Conditionals
-- Loops
-- Functions
-- Arrays
-- Strings
-- Problem Solving
+
+- C++ Basics
+- Vectors
+- Maps
+- Sets
+- Stack
+- Queue
+- Priority Queue
+- Sorting using STL
 
 ## Goal
-Build strong programming fundamentals before moving into Data Structures and Algorithms.
-~Rohit Maisale
+
+Build strong C++ fundamentals before diving deep into Data Structures and Algorithms.
+
+## Repository Structure
+
+Each folder contains small programs demonstrating usage of a specific STL container or concept.
